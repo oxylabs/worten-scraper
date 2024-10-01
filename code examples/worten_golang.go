@@ -13,7 +13,7 @@ func main() {
 	const Password = "YOUR_PASSWORD"
 
 	payload := map[string]string{
-		"source": "universal_ecommerce",
+		"source": "universal",
 		"url": "https://www.worten.pt/promocoes/pequenos-eletrodomesticos",
 	}
 
