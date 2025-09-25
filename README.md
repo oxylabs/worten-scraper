@@ -44,8 +44,8 @@ Find code examples for other programming languages [**here**](https://github.com
   "results": [
     {
       "content": "<!DOCTYPE html><html lang=\"pt-PT\" data-capo=\"\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" co ... </html>",
-      "created_at": "2024-02-20 12:42:22",
-      "updated_at": "2024-02-20 12:42:24",
+      "created_at": "2025-02-20 12:42:22",
+      "updated_at": "2025-02-20 12:42:24",
       "page": 1,
       "url": "https://www.worten.pt/promocoes/pequenos-eletrodomesticos",
       "job_id": "7165687125755597825",
